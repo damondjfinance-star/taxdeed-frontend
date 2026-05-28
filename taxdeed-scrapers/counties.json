@@ -1,0 +1,27 @@
+[
+  {
+    "county": "Miami-Dade",
+    "platform": "realaution",
+    "url": "https://miami-dade.realtaxdeed.com/index.cfm?zaction=AUCTION&Zmethod=PREVIEW"
+  },
+  {
+    "county": "Broward",
+    "platform": "realaution",
+    "url": "https://broward.realtaxdeed.com/index.cfm?zaction=AUCTION&Zmethod=PREVIEW"
+  },
+  {
+    "county": "Palm Beach",
+    "platform": "realaution",
+    "url": "https://palmbeach.realtaxdeed.com/index.cfm?zaction=AUCTION&Zmethod=PREVIEW"
+  },
+  {
+    "county": "Hillsborough",
+    "platform": "realaution",
+    "url": "https://hillsborough.realtaxdeed.com/index.cfm?zaction=AUCTION&Zmethod=PREVIEW"
+  },
+  {
+    "county": "Orange",
+    "platform": "realaution",
+    "url": "https://orange.realtaxdeed.com/index.cfm?zaction=AUCTION&Zmethod=PREVIEW"
+  }
+]
